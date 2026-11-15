@@ -1,0 +1,30 @@
+/* Change this color to change the whole page background */
+body {
+  background-color: #cfe8d5;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  box-sizing: border-box;
+  padding: 24px 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  font-family: system-ui, sans-serif;
+  color: #1f3a2a;
+}
+
+h1 {
+  margin: 0;
+  font-size: 3rem;
+}
+
+img {
+  max-width: min(90vw, 600px);
+  max-height: 65vh;
+  height: auto;
+  border-radius: 12px;
+}
