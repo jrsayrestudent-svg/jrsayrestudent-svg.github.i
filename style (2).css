@@ -1,6 +1,6 @@
 /* Change this color to change the whole page background */
 body {
-  background-color: #aa6227;
+  background-color: #cfe8d5;
 }
 
 body {
@@ -14,7 +14,7 @@ body {
   justify-content: center;
   gap: 16px;
   font-family: system-ui, sans-serif;
-  color: #5e4f2f;
+  color: #1f3a2a;
 }
 
 h1 {
